@@ -1,6 +1,6 @@
 require_relative "stacklike"
 
-classs Stack
+class Stack
     include Stacklike
 end
 
@@ -14,4 +14,4 @@ taken = s.take_from_stack
 puts 'i took this away'
 puts taken
 puts 'current stack:'
-puts s.stack
+puts s.stackgit 
