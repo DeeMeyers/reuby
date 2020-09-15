@@ -1,6 +1,6 @@
 require_relative "stacklike"
 
-classs stack
+classs Stack
     include Stacklike
 end
 
